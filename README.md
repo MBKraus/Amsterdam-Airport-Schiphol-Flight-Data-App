@@ -8,7 +8,6 @@ This tool was written by means of [Python 3.5.1](https://www.python.org/download
 
 - Kindly make sure to have pyopenssl, ndg-httpsclient and pyasn1 installed in order to interact with the API
 - Insert your API-id and API-key in the py.file, [which can be requested here](https://developer.schiphol.nl/)
-- 
 
 #### Screenshot
-![alt text](https://raw.githubusercontent.com/Weesper1985/Amsterdam-Airport-Schiphol-Flight-Data-App/master/screen.png)
+![alt text](https://raw.githubusercontent.com/Weesper1985/Amsterdam-Airport-Schiphol-Flight-Data-App/master/screen.jpg)
