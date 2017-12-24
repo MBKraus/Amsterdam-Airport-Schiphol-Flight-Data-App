@@ -1,4 +1,4 @@
-# Schipholl-Flight-Data-App
+# Schiphol-Flight-Data-App
 
 ## Basic API-sourced python-based flight data widget for retrieving arrival and departures data for Amsterdam Airport Schiphol (along a GUI constructed with wxPython)
 
